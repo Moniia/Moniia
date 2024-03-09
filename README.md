@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/https://instagram.com/ig_baba_jagdish?igshid=ngexmmi2ytkyzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mona.aminian.web" height="50" width="50" /></a>  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jagdish-singh-092919244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mona-aminian-119427169" height="40" width="50" /></a>     
+  <a href="https://instagram.com/https://instagram.com/mona.aminian.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mona.aminian.web" height="50" width="50" /></a>  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mona-aminian-119427169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mona-aminian-119427169" height="40" width="50" /></a>     
 </p>
 

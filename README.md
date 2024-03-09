@@ -23,3 +23,9 @@
 <a href="https://www.linkedin.com/in//mona-aminian-119427169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mona-aminian-119427169" height="40" width="50" /></a>     
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihasanaghaei&show_icons=true&locale=en&layout=compact" alt="mahdihasanaghaei" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdihasanaghaei&show_icons=true&locale=en" alt="mahdihasanaghaei" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdihasanaghaei&" alt="mahdihasanaghaei" /></p>
+

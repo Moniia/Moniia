@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Moniia
-- 👀 I’m interested in Front-end design
+                                                                   👋 Hi, I’m @Moniia
 - 👩‍💻I’m currently learning Front-End Development
 - 🌱 Ask me about HTML5, CSS3, BootStrap, Tailwind, Javascript, REACT, NEXT
 - 💞️ I’m looking to collaborate on Front-End Projects

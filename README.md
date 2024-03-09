@@ -26,10 +26,12 @@
   <a href="https://instagram.com/mona.aminian.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mona.aminian.web" height="50" width="50" /></a>  
 <a href="https://www.linkedin.com/in//mona-aminian-119427169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mona-aminian-119427169" height="40" width="50" /></a>     
 </p>
-
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=moniia&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=moniia&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=moniia&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /></div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+</div>
 
 
 
